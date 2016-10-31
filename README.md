@@ -1,1 +1,2 @@
-# Hello_World
+def f(x):
+  return x
